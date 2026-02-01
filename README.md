@@ -3,18 +3,12 @@
 
 ## About Me
 DevOps-focused student at **Nizhny Novgorod State Technical University** (Applied Mathematics).  
-I enjoy building and automating infrastructure: **CI/CD**, containers, and Linux-based environments.
+Want to build and automating different infrastructure: **CI/CD**, containers, and Linux-based environments.
 
 - 🔧 DevOps / Automation / CI-CD  
 - 🐧 Linux • 🐳 Docker • ⚙️ GitLab CI/CD  
 - 📍 Based in Nizhny Novgorod (not ready to relocate)  
-- 🌍 English: B1
-
-## Experience
-**DevOps / ML Infra Intern — NPP PRIMA** *(Jun 2025 – Jul 2025)*  
-- Worked in broadband communication systems department  
-- Helped set up a **data build pipeline** for a neural network dataset  
-- Assisted with Linux/Docker-based tooling and automation around data preparation
+- 🌍 English: A1
 
 ## ⭐ GitHub Stats
 <p align="center">
@@ -50,7 +44,6 @@ I enjoy building and automating infrastructure: **CI/CD**, containers, and Linux
 </p>
 
 ## 🔭 Currently Working On
-- Improving CI/CD skills (pipelines, automation)
 - Container-based setups (Docker, Compose)
 - Kubernetes & Ansible practice projects
 - Small internal tools for automation (Python / Bash)
@@ -59,5 +52,7 @@ I enjoy building and automating infrastructure: **CI/CD**, containers, and Linux
 If you’re into DevOps, automation, Linux, containers, or backend tooling — feel free to reach out.
 
 ## 📫 Contact
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1.wswiss.1)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WsWiss1)
 - Email: **bylov4@yandex.ru**
 
