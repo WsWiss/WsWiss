@@ -1,4 +1,3 @@
-<h1 align="center">Привет 👋, я Вадим Былов</h1>
 <h3 align="center">Junior DevOps Engineer</h3>
 
 <p align="center">
@@ -23,9 +22,6 @@
 
 ---
 
-## 💼 Опыт
-
-## 📊 GitHub статистика
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WsWiss&show_icons=true&theme=github_dark">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WsWiss&layout=compact&theme=github_dark">
@@ -33,7 +29,6 @@
 
 ---
 
-## 📫 Контакты
 <p align="center">
   <a href="mailto:bylov4@yandex.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
