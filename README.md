@@ -1,10 +1,5 @@
-<h1 align="center">👋 Hi! I'm Vadim Bylov</h1>
+<h1 align="center">👋 Hi! That's WsWiss</h1>
 <h3 align="center">Junior DevOps Engineer • Nizhny Novgorod, Russia</h3>
-
-<p align="center">
-  <!-- Optional: snake animation (requires workflow + generated file in /assets) -->
-  <img width="600" src="assets/github-snake.svg" alt="github snake"/>
-</p>
 
 ## About Me
 DevOps-focused student at **Nizhny Novgorod State Technical University** (Applied Mathematics).  
@@ -23,9 +18,9 @@ I enjoy building and automating infrastructure: **CI/CD**, containers, and Linux
 
 ## ⭐ GitHub Stats
 <p align="center">
-  <img src="https://mystats-lw3yl4kmq-wswiss-projects.vercel.app/api?username=WsWiss&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+  <img src="https://mystats-nu.vercel.app/api?username=WsWiss&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
   <br>
-  <img src="https://mystats-lw3yl4kmq-wswiss-projects.vercel.app/api/top-langs/?username=WsWiss&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" />
+  <img src="https://mystats-nu.vercel.app/api/top-langs/?username=WsWiss&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" />
 </p>
 
 ## 📚 Technologies & Tools
