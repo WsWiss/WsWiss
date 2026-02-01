@@ -1,41 +1,68 @@
-<h3 align="center">Junior DevOps Engineer</h3>
+<h1 align="center">👋 Hi! I'm Vadim Bylov</h1>
+<h3 align="center">Junior DevOps Engineer • Nizhny Novgorod, Russia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;Linux+%7C+Docker+%7C+CI%2FCD;Learning+Kubernetes+and+Ansible&center=true&width=500">
+  <!-- Optional: snake animation (requires workflow + generated file in /assets) -->
+  <img width="600" src="assets/github-snake.svg" alt="github snake"/>
 </p>
 
-## 🛠 Tech Stack
+## About Me
+DevOps-focused student at **Nizhny Novgorod State Technical University** (Applied Mathematics).  
+I enjoy building and automating infrastructure: **CI/CD**, containers, and Linux-based environments.
 
+- 🔧 DevOps / Automation / CI-CD  
+- 🐧 Linux • 🐳 Docker • ⚙️ GitLab CI/CD  
+- 📍 Based in Nizhny Novgorod (not ready to relocate)  
+- 🌍 English: B1
 
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+## Experience
+**DevOps / ML Infra Intern — NPP PRIMA** *(Jun 2025 – Jul 2025)*  
+- Worked in broadband communication systems department  
+- Helped set up a **data build pipeline** for a neural network dataset  
+- Assisted with Linux/Docker-based tooling and automation around data preparation
 
----
-
+## ⭐ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WsWiss&show_icons=true&theme=github_dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WsWiss&layout=compact&theme=github_dark">
+  <img src="https://mystats-lw3yl4kmq-wswiss-projects.vercel.app/api?username=WsWiss&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+  <br>
+  <img src="https://mystats-lw3yl4kmq-wswiss-projects.vercel.app/api/top-langs/?username=WsWiss&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" />
 </p>
 
----
-
+## 📚 Technologies & Tools
 <p align="center">
-  <a href="mailto:bylov4@yandex.ru">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://t.me/@wsWiss1">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
+
+  <!-- === Languages === -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge" />
+
+  <!-- === DevOps & Infrastructure === -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI%2FCD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+
+  <!-- === Databases === -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <!-- === Tools === -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
 </p>
 
-🌍 English — A1
+## 🔭 Currently Working On
+- Improving CI/CD skills (pipelines, automation)
+- Container-based setups (Docker, Compose)
+- Kubernetes & Ansible practice projects
+- Small internal tools for automation (Python / Bash)
+
+## 👯 Want to Collaborate?
+If you’re into DevOps, automation, Linux, containers, or backend tooling — feel free to reach out.
+
+## 📫 Contact
+- Email: **bylov4@yandex.ru**
+
