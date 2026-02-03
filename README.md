@@ -3,7 +3,6 @@
 
 ## About Me
 DevOps-focused student at **Nizhny Novgorod State Technical University** (Applied Mathematics).  
-Want to build and automating different infrastructure: **CI/CD**, containers, and Linux-based environments.
 
 - 🔧 DevOps / Automation / CI-CD  
 - 🐧 Linux • 🐳 Docker • ⚙️ GitLab CI/CD  
@@ -47,9 +46,6 @@ Want to build and automating different infrastructure: **CI/CD**, containers, an
 - Container-based setups (Docker, Compose)
 - Kubernetes & Ansible practice projects
 - Small internal tools for automation (Python / Bash)
-
-## 👯 Want to Collaborate?
-If you’re into DevOps, automation, Linux, containers, or backend tooling — feel free to reach out.
 
 ## 📫 Contact
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1.wswiss.1)
