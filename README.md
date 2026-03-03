@@ -2,11 +2,8 @@
 <h3 align="center">Junior DevOps Engineer • Nizhny Novgorod, Russia</h3>
 
 ## About Me
-DevOps-focused student at **Nizhny Novgorod State Technical University** (Applied Mathematics).  
+student at **Nizhny Novgorod State Technical University** (Applied Mathematics).  
 
-- 🔧 DevOps / Automation / CI-CD  
-- 🐧 Linux • 🐳 Docker • ⚙️ GitLab CI/CD  
-- 📍 Based in Nizhny Novgorod (not ready to relocate)  
 - 🌍 English: A1
 
 ## ⭐ GitHub Stats
@@ -43,8 +40,6 @@ DevOps-focused student at **Nizhny Novgorod State Technical University** (Applie
 </p>
 
 ## 🔭 Currently Working On
-- Container-based setups (Docker, Compose)
-- Kubernetes & Ansible practice projects
 - Small internal tools for automation (Python / Bash)
 
 ## 📫 Contact
