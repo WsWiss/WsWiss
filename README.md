@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi! That's WsWiss</h1>
-<h3 align="center">Junior DevOps Engineer • Nizhny Novgorod, Russia</h3>
+<h3 align="center">Junior Engineer • Nizhny Novgorod, Russia</h3>
 
 ## About Me
 student at **Nizhny Novgorod State Technical University** (Applied Mathematics).  
@@ -40,7 +40,8 @@ student at **Nizhny Novgorod State Technical University** (Applied Mathematics).
 </p>
 
 ## 🔭 Currently Working On
-- Small internal tools for automation (Python / Bash)
+- Small internal tools for automation (Python / Bash + PyTest)
+- small client/server application for pathfinding, NetworkView - WiFi, OSI, Docker, Prometheus+Grafana.
 
 ## 📫 Contact
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1.wswiss.1)
